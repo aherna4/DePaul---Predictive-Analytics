@@ -2,7 +2,7 @@ Homework 1 (Alejandro Hernandez Segura)
 ========================================================
 
 This is a simple example showing a social network dataset and some
-operations performed on it in R. For Homework 1, you just have to get this markdown file to run.
+operations performed on it in R. For the first assignment, you just have to get this markdown file to run.
 
 Setup
 --------------------------------------------------------
